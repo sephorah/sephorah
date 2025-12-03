@@ -1,9 +1,5 @@
 # Hi there 👋
 
-[![Séphorah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sephorah)](https://github.com/sephorah/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sephorah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Technical stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
